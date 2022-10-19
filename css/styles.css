@@ -60,8 +60,8 @@ a {
     background-color: #ecccb7;
 }
 
-.button__purple {
-    background-color: #664EFC;
+.button__orange{
+    background-color: #e0ad04;
     color: #ffff;
     border-radius: 0.3125rem;
     padding: 1rem;
@@ -70,7 +70,8 @@ a {
 
 .text__purple {
     color: #664EFC;
-    font-weight: bold;
+    font-weight:bolder;
+
 }
 
 
@@ -85,6 +86,10 @@ a {
 
 .header__nav {
     display: none;
+}
+
+.hover:hover{
+    text-decoration: underline .125rem;
 }
 
 /* Hero */
