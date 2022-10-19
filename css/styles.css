@@ -48,20 +48,16 @@ a {
     margin: 0 auto;
 }
 
-.background__gradient {
-    background: radial-gradient(89.39% 249.08% at 3.07% 38.77%, #F0D6EF 0%, #F9EBEC 33.85%, #FDFCF9 100%);
-}
-
 .background__white {
     background-color: #ffff;
 }
 
 .background__cream {
-    background-color: #ecccb7;
+    background-color: #1e1e1e;
 }
 
-.button__orange{
-    background-color: #e0ad04;
+.button__black{
+    background-color: #1e1e1e;
     color: #ffff;
     border-radius: 0.3125rem;
     padding: 1rem;
@@ -69,7 +65,7 @@ a {
 }
 
 .text__purple {
-    color: #664EFC;
+    color: #1e1e1e;
     font-weight:bolder;
 
 }
@@ -145,6 +141,10 @@ a {
 }
 
 /*  Footer */
+footer p, footer h4{
+    color: #ffff;
+}
+
 
 .footer__indie {
     display: flex;
